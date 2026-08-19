@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Si-Oleg
+# SPDX-License-Identifier: MIT
+
 from collections.abc import Hashable
 from dataclasses import dataclass
 from typing import Protocol, Self
